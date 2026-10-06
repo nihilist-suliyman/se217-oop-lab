@@ -1,4 +1,4 @@
-public class Main {
+dpublic class Main {
 public static void main(String[] args) {
 int marks = 75;
 
